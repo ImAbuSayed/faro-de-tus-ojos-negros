@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/faro-de-tus-ojos-negros/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Faro de tus ojos negros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/faro-de-tus-ojos-negros/) |
+| **Get License** | [Secure Licensing Rights for Faro de tus ojos negros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/faro-de-tus-ojos-negros/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos negros son mi faro en la ciudad
+> Me tienen loco, mami, en la oscuridad
+> Un solo roce y ya perdemos la razón
+> You got me falling, reina de mi corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
