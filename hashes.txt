@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Faro de tus ojos negros
+
+This log tracks the cryptographic history and versioning for the song **Faro de tus ojos negros** (faro-de-tus-ojos-negros).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:24:59.558170 | `v1` | `0cc003c641504c62d40c3a415b78c2413fc390b8bf596f0ab9518673d7eec8a0` | `1945e01feea59f214787cb516d77d454106c772c57cf5819f3b165ca95142ca7` | `2026-06-15_faro-de-tus-ojos-negros-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

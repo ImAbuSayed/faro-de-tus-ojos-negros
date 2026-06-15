@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/faro-de-tus-ojos-negros/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Faro de tus ojos negros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/faro-de-tus-ojos-negros/) |
+| **Get License** | [Official Music Licensing for Faro de tus ojos negros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/faro-de-tus-ojos-negros/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0cc003c641504c62d40c3a415b78c2413fc390b8bf596f0ab9518673d7eec8a0` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
